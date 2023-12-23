@@ -9,7 +9,7 @@ A quick guide to my Project ->
 ## Tools Used
 
 - React JS
-- JXS
+- JSX
 - Styled Components
 
 # Getting Started with Create React App
