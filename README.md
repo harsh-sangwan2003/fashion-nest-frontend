@@ -30,7 +30,7 @@ You may also see any lint errors in the console.
 
 ## Usage
 
-An admin dashboard using React.js: modular, real-time data updates, customizable interface for administrators to monitor, manage, and analyze system aspects efficiently.
+A React.js project, redefines fashion exploration. Discover trends, curate style boards, and engage with a vibrant fashion community seamlessly.
 
 Click on
 
